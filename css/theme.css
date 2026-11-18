@@ -1,0 +1,27 @@
+
+/* Main website theme */
+
+:root {
+    --primary-color: #6c63ff;
+    --secondary-color: #ff6584;
+    --accent-color: #f4a261;
+
+    --background-color: #ffffff;
+    --section-background: #f7f7fc;
+    --card-background: #ffffff;
+
+    --text-color: #292943;
+    --muted-text-color: #6b6b80;
+
+    --border-color: #e5e5ef;
+    --navbar-background: #ffffff;
+    --footer-background: #292943;
+    --footer-text: #ffffff;
+
+    --heading-font: Arial, sans-serif;
+    --body-font: Arial, sans-serif;
+
+    --card-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
+    --card-radius: 12px;
+    --transition: 0.3s ease;
+}
